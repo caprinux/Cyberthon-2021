@@ -12,7 +12,7 @@
 
 ### Solution
 
-![image](https://user-images.githubusercontent.com/76640319/113474790-a775e180-94a4-11eb-928f-bfea730d11b6.png)
+![image](https://user-images.githubusercontent.com/76640319/113474806-bf4d6580-94a4-11eb-89f2-31a312232991.png)
 
 ![image](https://user-images.githubusercontent.com/76640319/113474794-ae9cef80-94a4-11eb-8dfa-293e3826b46b.png)
 
