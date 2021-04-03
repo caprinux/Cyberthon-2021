@@ -1,2 +1,2 @@
-# Cyberthon-Training
-just all the basic easy challenges
+# Cyberthon Training
+just all the simpler challenges
