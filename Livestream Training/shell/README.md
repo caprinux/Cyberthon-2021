@@ -43,14 +43,14 @@ void shell()
     system("/bin/sh");
 }
 ```
-
- ` scanf("%s", buf); `
  
 Next, as we move down the code, we can see, our main function takes in an input with scanf, but it does not limit the number of characters that it takes in. 
 
- `char buf[32];`
+` scanf("%s", buf); `
 
 It saves this input into a variable buffer which holds 32 characters.
+
+ `char buf[32];`
 
 If we can input more than 32 characters, we can overflow other variables in the stack. What's the stack? How does the stack look!? 
 
