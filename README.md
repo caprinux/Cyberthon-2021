@@ -20,6 +20,11 @@
 ### Crypto
 
 ### Reverse Engineering
+- **[NumberGame]()** reversing python
+- **[Super Secure Sipher]()** reversing java
+- **[Master Rev]()** reversing assembly
+- **[Beep Boop]()** dynamic analysis
+- **[Prove Your Worth]()** static analysis 
 
 ### Web
 
