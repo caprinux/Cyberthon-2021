@@ -182,7 +182,7 @@ main:
 
 Okay, it's a little long.
 
-```
+```asm
 	checkFlag:
         push    rbp					
         mov     rbp, rsp				              # sets up the stack
@@ -205,7 +205,7 @@ Okay, it's a little long.
 
 This function sets up a lookup table by storing integers into the stack.
 
-```
+```asm
 .L8:
         mov     eax, DWORD PTR [rbp-4]		    	# load 0 into eax initially, then 1, 2, 3, 4
         cdqe						# 
@@ -236,7 +236,7 @@ Hence if we were to shift our string around, **3rmt345vR** will give **m45t3rR3v
 
 However, that's not all.
 
-```
+```asm
         movsx   eax, al				            	# take 8 bits of eax value
         lea     edx, [rax+3]			         	# load [rax+3] into edx
 ```
