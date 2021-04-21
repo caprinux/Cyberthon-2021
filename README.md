@@ -20,11 +20,11 @@
 ### Crypto
 
 ### Reverse Engineering
-- **[NumberGame]()** reversing python
-- **[Super Secure Sipher]()** reversing java
-- **[Master Rev]()** reversing assembly
-- **[Beep Boop]()** dynamic analysis
-- **[Prove Your Worth]()** static analysis 
+- **[NumberGame](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/RE/Number%20Game)** reversing python
+- **[Super Secure Sipher](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/RE/Super%20Secure%20Sipher)** reversing java
+- **[Master Rev](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/RE/Master%20Rev)** reversing assembly
+- **[Beep Boop](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/RE/Beepboop)** dynamic analysis
+- **[Prove Your Worth](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/RE/Prove%20Your%20Worth)** static analysis 
 
 ### Web
 
