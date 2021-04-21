@@ -16,7 +16,7 @@ We are provided with a java class file. We decompile it using an online decompil
 
 After some cleaning up and some annotation we have this:
 
-```
+```java
    public static String encrypt(String var0) {
       String var1 = "";
       SecureRandom var2 = randomGenerator();
