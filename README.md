@@ -16,8 +16,18 @@
 - **[nosystem](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Pwn/NoSystem)** ret2libc + leak libc
 
 ### Forensics
+- **[Stegosaurus]**()
+- **[Being Watched]**()
+- **[Rendezvous]**()
+- **[Recollections]**()
+- **~~Hyperbolic~~**
 
 ### Crypto
+- **[Byte Rotator]**()
+- **[XorMillion]**()
+- **[Never Gonna Give]**()
+- **[Really Secure Algorithm]**()
+- **[Hashcryption]**()
 
 ### Reverse Engineering
 - **[NumberGame](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/RE/Number%20Game)** reversing python
@@ -27,5 +37,10 @@
 - **[Prove Your Worth](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/RE/Prove%20Your%20Worth)** static analysis 
 
 ### Web
+- **[Flag Poster]**()
+- **[The Day]**()
+- **[No Leek]**()
+- **[Cannot Leek]**()
+- **[Browser ID]**()
 
 ## **WATCH THIS SPACE, COMING SOON**
