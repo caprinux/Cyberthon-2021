@@ -97,7 +97,7 @@ and gives us our shell.
 
 Now to get into the more technical details. How do we write our ROP chain at runtime?
 
-```
+```py
 from pwn import * 
 p = process('./nosystem')
 elf = ELF('nosystem')
