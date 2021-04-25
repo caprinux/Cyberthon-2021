@@ -26,11 +26,11 @@ Here are writeups that I wrote for all the training challenges for you to ponder
 - **[nosystem](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Pwn/NoSystem)** ret2libc + leak libc
 
 ### Forensics
-- **~~Stegosaurus~~** [image](https://imgur.com/gR2DgQD) _sorry i got lazy_
+- **~~Stegosaurus~~** [image](https://imgur.com/gR2DgQD) _sorry i got lazy and js used zsteg_
 - **[Being Watched](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Forensics/Being%20Watched)** pcap
 - **[Rendezvous](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Forensics/Rendezvous)** pcap
 - **[Recollections](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Forensics/Recollections)** memdump forensics
-- **~~Hyperbolic~~** [repair pdf](https://www.ilovepdf.com/repair-pdf) _sorry i got lazy_
+- **~~Hyperbolic~~** [repair pdf](https://www.ilovepdf.com/repair-pdf) _sorry i got lazy and just google pdf repair dont kill me nik_ 😭
 
 ### Crypto
 - **[Byte Rotator](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Crypto/Byte%20Rotator)** scripting
