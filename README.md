@@ -16,11 +16,11 @@
 - **[nosystem](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Pwn/NoSystem)** ret2libc + leak libc
 
 ### Forensics
-- **[Stegosaurus]()**
+- **~~[Stegosaurus]~~** [image](https://imgur.com/gR2DgQD) _sorry i got lazy too_
 - **[Being Watched]()**
 - **[Rendezvous]()**
 - **[Recollections]()**
-- **~~Hyperbolic~~**
+- **~~Hyperbolic~~** [repair pdf](https://www.ilovepdf.com/repair-pdf) _sorry i got lazy_
 
 ### Crypto
 - **[Byte Rotator](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Crypto/Byte%20Rotator)**
