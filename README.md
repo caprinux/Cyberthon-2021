@@ -1,6 +1,12 @@
 # Intro
 
-Heyo ~ If y'all are reading this, the CTF has probably just ended and I just wanted to congratulate y'all for coming so far!! No matter the result, I hope it has been an eye opener and a learning experience to you :) Here are writeups that I wrote for all the training challenges for you to ponder and learn from. Hope you enjoy 
+Heyo ~ If y'all are reading this, the CTF has probably just ended and I just wanted to congratulate y'all for coming so far!! 
+
+No matter the result, you guys have done an amazing job pulling through all the tough training sessions and the steep learning curve coming into this CTF. Despite most of us being extremely busy with our JC curriculum.
+
+Nevertheless, I hope it has been an eye opener and a learning experience to you as it has been for me and I really hope to see y'all around in more CTFs to come. 
+
+Here are writeups that I wrote for all the training challenges for you to ponder and view at you leisure. If there is anything that you are uncertain about, feel free to dm me, I can be easily contactable via the Cyberthon Discord Server and/or through my discord dms. 
 
 ## Cyberthon Livestream Training
 ---
