@@ -1,3 +1,7 @@
+# Intro
+
+Heyo ~ If y'all are reading this, the CTF has probably just ended and I just wanted to congratulate y'all for coming so far!! No matter the result, I hope it has been an eye opener and a learning experience to you :) Here are writeups that I wrote for all the training challenges for you to ponder and learn from. Hope you enjoy 
+
 ## Cyberthon Livestream Training
 ---
 
