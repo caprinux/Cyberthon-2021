@@ -16,10 +16,10 @@
 - **[nosystem](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Pwn/NoSystem)** ret2libc + leak libc
 
 ### Forensics
-- **~~[Stegosaurus]~~** [image](https://imgur.com/gR2DgQD) _sorry i got lazy too_
-- **[Being Watched]()**
-- **[Rendezvous]()**
-- **[Recollections]()**
+- **~~Stegosaurus~~** [image](https://imgur.com/gR2DgQD) _sorry i got lazy_
+- **[Being Watched](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Forensics/Being%20Watched)**
+- **[Rendezvous](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Forensics/Rendezvous)**
+- **[Recollections](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Forensics/Recollections)**
 - **~~Hyperbolic~~** [repair pdf](https://www.ilovepdf.com/repair-pdf) _sorry i got lazy_
 
 ### Crypto
@@ -37,9 +37,9 @@
 - **[Prove Your Worth](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/RE/Prove%20Your%20Worth)** static analysis 
 
 ### Web
-- **[Flag Poster]()**
-- **[The Day]()**
-- **[No Leek]()**
+- **[Flag Poster](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Web/Flag%20Poster)**
+- **[The Day](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Web/The%20Day)**
+- **[No Leek](https://github.com/caprinux/Cyberthon-2021-Training/tree/main/Self-Directed%20Learning/Web/No%20Leek)**
 - **[Cannot Leek]()**
 - **[Browser ID]()**
 
