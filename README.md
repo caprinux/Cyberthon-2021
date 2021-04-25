@@ -1,4 +1,4 @@
-# Intro
+# Prologue
 
 Heyo ~ If y'all are reading this, the CTF has probably just ended and I just wanted to congratulate y'all for coming so far!! 
 
