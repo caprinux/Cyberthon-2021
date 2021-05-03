@@ -49,11 +49,13 @@ What the heck?? There are thousands of mov instructions. With some googling you 
 
 At first, I intended to install a de-movfuscator but while it was taking some time to install, I decided to run it and check it out.
 
-As soon as I run it, I hit a SEGSEGV signal, which indicates Segmentation Fault.
+As soon as I run it, I hit a SEGSEGV signal, which indicates Segmentation Fault. Let's pass the SIGSEGV and SIGILL signals to program so we can just continue to observe the program.
 
-![image](https://user-images.githubusercontent.com/76640319/115520389-ae7e5b80-a2bc-11eb-93ac-092e3640ab0b.png)
+**HANDLE SIGSEGV PASS**
 
-Okay... Let's look at the stack which stores data!! If there's any comparison going on, the variables will usually first be pushed onto the stack.
+**HANDLE SIGILL PASS**
+
+As we continue our program, we eventually note the flag in the stack.
 
 ![image](https://user-images.githubusercontent.com/76640319/115520483-c9e96680-a2bc-11eb-9269-41e7ad1042a1.png)
 
