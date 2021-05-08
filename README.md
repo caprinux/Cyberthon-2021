@@ -8,6 +8,16 @@ Nevertheless, I hope it has been an eye opener and a learning experience to you 
 
 Here are writeups that I wrote for all the training challenges for you to ponder and view at you leisure. If there is anything that you are uncertain about, feel free to dm me, I can be easily contactable via the Cyberthon Discord Server and/or through my discord dms. 
 
+## Cyberthon Finals
+---
+
+- **[Apcafe]()** 
+- **[Placeholder]()**
+- **[APCDB]()**
+- **[Market Research]()**
+
+
+
 ## Cyberthon Livestream Training
 ---
 
