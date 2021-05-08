@@ -8,6 +8,17 @@ Nevertheless, I hope it has been an eye opener and a learning experience to you 
 
 Here are writeups that I wrote for all the training challenges for you to ponder and view at you leisure. If there is anything that you are uncertain about, feel free to dm me, I can be easily contactable via the Cyberthon Discord Server and/or through my discord dms. 
 
+---
+# Post CTF thoughts
+
+Definitely wasn't a satisfactory performance, but considering all the difficulties me and my team faced during and outside of the CTF, I'm still proud of my team anyways for making it to #12. 
+
+_totally not tilted at how smooth my brain was during the CTF_
+
+_totally not me choking throughout the ctf_
+
+---
+
 ## Cyberthon Finals
 ---
 
