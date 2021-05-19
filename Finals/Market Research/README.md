@@ -4,9 +4,9 @@
 ### Description 
 
 > Well, we have to admit that APOCALYPSE is pulling some "big brain" moves here. They seem to be conducting a survey to do a "Market Research" of everyone's favourite CTF categories so that they can write more malware which makes use of techniques in domains that fewer people are proficient at. Could you figure out if their survey website has any vulnerabilities?
-
+> 
 > Note: flag.txt is in the same directory as the webapp
-
+> 
 > _attached: app.py_
 
 ---
